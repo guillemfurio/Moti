@@ -1,0 +1,38 @@
+---
+title: "Moti|Strength & Performance"
+image: "frank.jpg"
+links:
+  - label: Mi CV
+    url: "https://linkedin.com/"
+  - label: Linkedin
+    url: "https://twitter.com/"
+  - label: Instagram
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::trestles
+---
+ 
+## Guilem Furió "Moti"
+
+Mi nombre es Guillem Furió, tengo 24 años, resido en Mallorca y sov un profesional de las ciencias de la actividad física y el deporte. Durante los años de carrera me especialicé en el entrenamiento de rendimiento aunque mi pasión por el entrenamiento de fuerza desató este proyecto.
+
+## Moti|Strength & Performance
+
+Moti Strength & Performance es un proyecto aue surgió como herramienta de aplicación de los concentos aprendidos basados en la evidencia científica y la vocación de ayudar a los deportistas en las diferentes etapas de su camino hacia la consecución de sus objetivos.
+
+## Educación
+
+##### **Guillem Furió** | Mallorca, España
+
+
+
+* **Universitat de Barcelona** | Grado en Ciencias de la Actividad Física y el Deporte | *2017 - 2021*
+* **Universitat de Barcelona** | Master Alto Rendimiento en Deportes Colectivos | *Cursando*
+
+## Experiencia
+
+Llevo casi toda una vida dedicada al rugby e muchas de sus facetas, aunque continue jugando estoy desempeñando los roles de primer entrenador de la Selección Balear Femenina Senior, preparador físico, analista de video y analista de datos en Babarians XV Calvià, que actualmente compite en la División de Honor B.
+
+*Moti|Strength & Performance* o más conocido como **Motifícate** es un proyecto que abarca a cualquier persona que desee marcarse unos objetivos, mejorar y quiera ponerse en manos de un profesional.
