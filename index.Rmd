@@ -1,15 +1,15 @@
 ---
-title: "Moti|Strength & Performance"
-image: "frank.jpg"
+title: "Moti | Strength & Performance"
+image: "icono.jpeg"
 links:
   - label: Mi CV
-    url: "https://linkedin.com/"
+    url: "https://drive.google.com/file/d/1oLG4qmSwptRV-IID_n7SGJNZ8QpATAH6/view"
   - label: Linkedin
-    url: "https://twitter.com/"
+    url: "www.linkedin.com/in/guillemfurio"
   - label: Instagram
-    url: "https://github.com/"
+    url: "https://www.instagram.com/moti.sp/"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:moti.strength.performance@gmail.com"
 output:
   postcards::trestles
 ---
@@ -18,7 +18,7 @@ output:
 
 Mi nombre es Guillem Furió, tengo 24 años, resido en Mallorca y sov un profesional de las ciencias de la actividad física y el deporte. Durante los años de carrera me especialicé en el entrenamiento de rendimiento aunque mi pasión por el entrenamiento de fuerza desató este proyecto.
 
-## Moti|Strength & Performance
+## Moti | Strength & Performance
 
 Moti Strength & Performance es un proyecto aue surgió como herramienta de aplicación de los concentos aprendidos basados en la evidencia científica y la vocación de ayudar a los deportistas en las diferentes etapas de su camino hacia la consecución de sus objetivos.
 
@@ -35,4 +35,4 @@ Moti Strength & Performance es un proyecto aue surgió como herramienta de aplic
 
 Llevo casi toda una vida dedicada al rugby e muchas de sus facetas, aunque continue jugando estoy desempeñando los roles de primer entrenador de la Selección Balear Femenina Senior, preparador físico, analista de video y analista de datos en Babarians XV Calvià, que actualmente compite en la División de Honor B.
 
-*Moti|Strength & Performance* o más conocido como **Motifícate** es un proyecto que abarca a cualquier persona que desee marcarse unos objetivos, mejorar y quiera ponerse en manos de un profesional.
+*Moti | Strength & Performance* o más conocido como **Motifícate** es un proyecto que abarca a cualquier persona que desee marcarse unos objetivos, mejorar y quiera ponerse en manos de un profesional.
