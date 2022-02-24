@@ -5,7 +5,7 @@ links:
   - label: Mi CV
     url: "https://drive.google.com/file/d/1oLG4qmSwptRV-IID_n7SGJNZ8QpATAH6/view"
   - label: Linkedin
-    url: "www.linkedin.com/in/guillemfurio"
+    url: "https://www.linkedin.com/in/guillemfurio/"
   - label: Instagram
     url: "https://www.instagram.com/moti.sp/"
   - label: Email
